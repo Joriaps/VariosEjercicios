@@ -1,0 +1,32 @@
+#resultado{
+    width: 35rem;
+    height: 5rem;
+    border-style: solid;
+    margin: 4% 0% 0% 31%;
+    font-size: 4rem;
+    text-align: center;
+    background-color: rgba(56, 138, 109, 0.289);
+}
+#panel{
+    width: 26rem;
+    height: 27rem;
+    border-style: solid;
+    margin: 1% 0% 0% 31%;
+    padding-right: 11%;
+    background-color: rgba(56, 138, 109, 0.289);
+}
+#operaciones{
+    width: 9rem;
+    height: 16rem;
+    margin: -77% 0% 0% 100%;
+}
+.botones{
+    width: 7rem;
+    height: 4rem;
+    margin: 1rem 0px 0px 1rem;
+}
+.operacion{
+    width: 7rem;
+    height: 4rem;
+    margin: 1rem 0px 0px 1rem;
+}
