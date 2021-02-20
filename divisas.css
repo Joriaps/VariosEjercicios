@@ -1,11 +1,14 @@
 
 #bloque{
     width: 19rem;
-    height: 13em;
+    height: 15em;
     margin: 10% 0% 0% 35%;
     border: 2px solid grey;
     background-color: rgba(37, 151, 60, 0.385);
 
+}
+i{
+    margin: 3% 0% 0% 5%;
 }
 b{
     font-size: 1rem;
