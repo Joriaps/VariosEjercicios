@@ -39,7 +39,7 @@ const trampaZombi = () =>{
     for (const agujero of document.querySelectorAll('#agujero')) { //Compruebo los agujeros si el zombi ha caido
         if(agujero.getBoundingClientRect().left <= zombi.getBoundingClientRect().left+70 && agujero.getBoundingClientRect().left >= zombi.getBoundingClientRect().left-20){
             if(agujero.getBoundingClientRect().top <= zombi.getBoundingClientRect().top+70 && agujero.getBoundingClientRect().top >= zombi.getBoundingClientRect().top-20){
-                alert.log('¡¡¡CAISTE EN EL AGUJERO!!!')
+                alert('¡¡¡CAISTE EN EL AGUJERO!!!')
             }
         }
     }

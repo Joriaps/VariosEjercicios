@@ -1,5 +1,5 @@
 let botones = document.querySelectorAll('button')
-
+console.log(location.href)
 for (const boton of botones) {
     boton.addEventListener('click', evento => {
         switch(evento.target.id){
