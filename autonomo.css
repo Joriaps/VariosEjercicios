@@ -1,0 +1,10 @@
+#reloj_evento{
+    width: 300px;
+    height: 130px;
+    font-size: 2rem;
+    border: solid 2px red;
+    background-color: cyan;
+    text-align: center;
+    padding-top: 1%;
+    margin: 10% auto auto auto;
+}
